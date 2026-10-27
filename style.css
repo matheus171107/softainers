@@ -23,7 +23,7 @@ html { scroll-behavior: smooth; }
   align-items: center;
   justify-content: center;
 }
-a{
+.member a{
   display: flex;
   width: 100%;
   font-size: 12pt;  
